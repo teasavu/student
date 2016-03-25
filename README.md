@@ -1,0 +1,2 @@
+# student
+Aplicație pt hackaton
